@@ -8,4 +8,8 @@ public class Test {
         System.out.println("bugfix updated commit in master");
 
     }
+    public void newFeature(){
+        System.out.println("new feature added");
+
+    }
 }
