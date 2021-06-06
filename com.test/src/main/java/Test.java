@@ -13,11 +13,6 @@ public class Test {
 
     }
 
-    public void featureBranch(){
-        System.out.println("feature branch commit 1");
-
-    }
-
     public void featureBranch1(){
         System.out.println("feature branch commit 1");
 
