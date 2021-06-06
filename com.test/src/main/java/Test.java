@@ -9,8 +9,13 @@ public class Test {
 
     }
 
-    public void featureBranch(){
+    public void featureBranch1(){
         System.out.println("feature branch commit 1");
+
+    }
+
+    public void featureBranch2(){
+        System.out.println("feature branch commit 2");
 
     }
 }
