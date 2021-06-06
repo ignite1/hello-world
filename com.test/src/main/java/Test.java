@@ -9,10 +9,6 @@ public class Test {
 
     }
 
-    public void newFeature2(){
-        System.out.println("new feature 2 added");
-
-    }
 
     public void masterCommit(){
         System.out.println("master commit");
