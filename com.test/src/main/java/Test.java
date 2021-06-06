@@ -14,4 +14,9 @@ public class Test {
 
     }
 
+    public void newFeature3(){
+        System.out.println("new feature 3 added");
+
+    }
+
 }
