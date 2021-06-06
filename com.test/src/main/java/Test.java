@@ -14,4 +14,9 @@ public class Test {
 
     }
 
+    public void masterCommit(){
+        System.out.println("master commit");
+
+    }
+
 }
