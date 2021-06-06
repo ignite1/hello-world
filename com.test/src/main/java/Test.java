@@ -19,4 +19,8 @@ public class Test {
 
     }
 
+    public void featureBranch(){
+        System.out.println("feature branch");
+
+    }
 }
