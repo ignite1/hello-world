@@ -1,4 +1,11 @@
 public class Test {
-    System.out.println("Test class");
 
+    public void initalCommit() {
+        System.out.println("Test class");
+    }
+
+    public void bugFix(){
+        System.out.println("bugfix commit in master");
+
+    }
 }
