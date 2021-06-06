@@ -5,7 +5,7 @@ public class Test {
     }
 
     public void bugFix(){
-        System.out.println("bugfix commit in master");
+        System.out.println("bugfix updated commit in master");
 
     }
 
